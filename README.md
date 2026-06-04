@@ -1,4 +1,5 @@
-Olá, eu sou o Ruben Gonçalves! 👋
+
+# Olá, eu sou o Ruben Gonçalves! 👋
 
 Analista de Sistemas | Estudante AWS re/Start
 
@@ -16,15 +17,15 @@ Minha trajetória é marcada pela busca constante por transformar desafios técn
 
 Cloud & Infraestrutura (AWS re/Start)
 
-"AWS" (https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Desenvolvimento Mobile e Software
 
-"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -42,9 +43,17 @@ Principais Informações
 📷 Demonstração (Screenshots)
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/b3c77d237061233.68f8f9e00fad3.jpg" width="250" alt="Player Principal">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/841c17237061233.68f8f9e00d234.jpg" width="250" alt="Tela Institucional">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/0e6995237061233.68f8f9e00dae9.jpg" width="250" alt="Suporte e Contato">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/b3c77d237061233.68f8f9e00fad3.jpg" width="250" alt="Player Principal"
+</p>
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/841c17237061233.68f8f9e00d234.jpg" width="250" alt="Tela Institucional"
+</p>
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/0e6995237061233.68f8f9e00dae9.jpg" width="250" alt="Suporte e Contato"
+</p>
+  
 </p>Funcionalidades
 
 - Streaming de áudio em alta qualidade
@@ -53,11 +62,13 @@ Principais Informações
 - Integração com WhatsApp
 - Interface intuitiva e acessível
 
-🔗 Disponível na Google Play Store:
+🔗 Disponível na Google Play Store
 
 https://play.google.com/store/apps/details?id=com.cm7.radiocamara
 
-«Este projeto representou um importante desafio profissional e acadêmico, exigindo pesquisa, aprendizado contínuo, resolução de problemas e persistência até sua publicação na loja oficial.»
+«
+Este projeto representou um importante desafio profissional e acadêmico, exigindo pesquisa, aprendizado contínuo, resolução de problemas e persistência até sua publicação na loja oficial.
+»
 
 ---
 
@@ -80,10 +91,12 @@ Desenvolvidas ao longo da minha experiência profissional, atuação como freela
 
 📫 Vamos conversar?
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/ruben--neto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben--neto/)
 
-""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:rubencandidog@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubencandidog@gmail.com)
 
 ---
 
 ⭐ Obrigado pela visita ao meu perfil. Estou sempre aberto a novas conexões, oportunidades de aprendizado e desafios que contribuam para meu crescimento profissional nas áreas de tecnologia, infraestrutura e computação em nuvem.
+
+```
